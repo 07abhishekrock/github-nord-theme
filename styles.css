@@ -233,8 +233,8 @@
 	--color-btn-primary-hover-border: rgba(205,217,229,0.1);
 	--color-btn-primary-selected-bg: var(--nord3);
 	--color-btn-primary-selected-shadow: 0 0 transparent;
-	--color-btn-primary-disabled-text: rgba(205,217,229,0.5);
-	--color-btn-primary-disabled-bg: rgba(52,125,57,0.6);
+	--color-btn-primary-disabled-text: rgba(--nord1);
+	--color-btn-primary-disabled-bg: rgba(--nord3);
 	--color-btn-primary-disabled-border: rgba(205,217,229,0.1);
 	--color-btn-primary-focus-bg: #347d39;
 	--color-btn-primary-focus-border: var(--nord2);
